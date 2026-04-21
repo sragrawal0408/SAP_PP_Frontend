@@ -19,6 +19,7 @@ This project is deployed using GitHub Pages from the main branch (root folder).
 HTML5
 CSS3
 JavaScript
+
 📌 Features
 SAP PP inspired UI
 Simple and responsive layout
